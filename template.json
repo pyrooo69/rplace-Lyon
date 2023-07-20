@@ -1,15 +1,15 @@
 {
-
-    "templates": [
-        {
-            "name": "lyon logo",
-            "sources": [
-                "https://imgur.com/a/m7QQST0"
-            ],
-            "x": 1,
-            "y": 1
-            
-        }
-    ],
-    
+  "contact": "linkinito",
+  "templates": [
+    {
+      "name": "Lyon",
+      "sources": [
+        "https://imgur.com/a/T3lVBaS"
+      ],
+      "x": -500,
+      "y": 499
+    }
+  ],
+  "whitelist": [],
+  "blacklist": []
 }

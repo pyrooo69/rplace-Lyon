@@ -2,12 +2,12 @@
   "contact": "linkinito",
   "templates": [
     {
-      "name": "Mbappé rire",
+      "name": "Lyon",
       "sources": [
-        "https://imgur.com/gallery/Lc6pf3o"
+        "https://imgur.com/a/aib5kqN"
       ],
-      "x": -487,
-      "y": -271
+      "x": 500,
+      "y": 499
     }
   ],
   "whitelist": [],
